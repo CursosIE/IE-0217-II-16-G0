@@ -292,7 +292,7 @@ public:
   //std::cout << "valor: " <<valor<< std::endl;
   switch (valor) {
     case 'A':
-      return 1;
+      return 11;
     case '2':
       return 2;
     case '3':
