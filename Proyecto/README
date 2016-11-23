@@ -6,4 +6,4 @@ Luego se ejecuta de la siguiente manera:
 
 ./HT <# de columnas>
 
-Donde <# de columnas debe ser mayor a 2>.
+Donde <# de columnas debe ser mayor a 2>. Debe ejecutarse en la misma carpeta que el archivo history4.txt
