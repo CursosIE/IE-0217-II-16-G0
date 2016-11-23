@@ -1,0 +1,9 @@
+Para compilar:
+
+g++ -o HT HT2.cpp
+
+Luego se ejecuta de la siguiente manera:
+
+./HT <# de columnas>
+
+Donde <# de columnas debe ser mayor a 2>.
